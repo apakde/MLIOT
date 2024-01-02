@@ -1,0 +1,5 @@
+outs:
+- md5: b73bf7d3ba1a517644661bc4bcd85f9a
+  size: 7
+  hash: md5
+  path: avi.txt
